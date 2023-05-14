@@ -1,6 +1,5 @@
 
 import javax.swing.*;
-import java.awt.*;
 
 public class slip_20_2 extends JFrame implements Runnable {
 
